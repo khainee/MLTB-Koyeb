@@ -1,4 +1,4 @@
-## Deploying on Github Actions
+## BUILDING DOCKER IMAGE
 
 **Required Variables(Add in Settings -> Secrets -> Actions -> Actions secrets -> New repository secret):**
 
