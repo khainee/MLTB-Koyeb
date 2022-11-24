@@ -6,5 +6,5 @@ Required Variables(Add in Settings -> Secrets -> Actions -> Actions secrets -> N
 - `DOCKER_ACCESS_TOKEN` :<p><b><a href="https://hub.docker.com/settings/security">➥🎲Get from</a></b></p> 
 - `DOCKEER_USERNAME` : Enter https://hub.docker.com Username.
 - `DOCKER_REPO` : Enter https://hub.docker.com Repo name.
-### [***config.env Variables***](https://github.com/weebzone/WZML/wiki/Setting-up-the-config.env-file)
+#### [***config.env Variables***](https://github.com/weebzone/WZML/wiki/Setting-up-the-config.env-file)
 List of Variables used by the Bot
